@@ -1,4 +1,5 @@
 import unittest
+
 from light_of_power import LightOfPower
 
 
